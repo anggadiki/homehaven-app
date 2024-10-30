@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:homehaven/widgets/CustomSearchBar.dart';
+import 'package:homehaven/widgets/custom_search_bar.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
